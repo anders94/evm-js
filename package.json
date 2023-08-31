@@ -1,0 +1,26 @@
+{
+  "name": "evm-js",
+  "version": "0.0.1",
+  "description": "A toy implementation of the Ethereum Virtual Machine (EVM) in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anders94/evm-js.git"
+  },
+  "keywords": [
+    "evm",
+    "javascript"
+  ],
+  "author": "Anders Brownworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anders94/evm-js/issues"
+  },
+  "homepage": "https://github.com/anders94/evm-js#readme",
+  "dependencies": {
+    "level": "^8.0.0"
+  }
+}

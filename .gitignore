@@ -1,0 +1,8 @@
+*~
+.*~
+node_modules/
+*.txt
+run
+log/
+data/
+.DS_Store
